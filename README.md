@@ -1,2 +1,2 @@
-# Bootcamp-Dio_Eduzz_GitHub
+# Bootcamp_Dio_Eduzz_GitHub
 Desafio sobre Projeto Git/Github
